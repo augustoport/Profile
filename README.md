@@ -103,9 +103,9 @@ Aplicação de delivery desenvolvida como projeto de desenvolvimento mobile.
 
 ## 📊 GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augustoport\&show_icons=true\&hide_border=true)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&hide_border=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoport\&layout=compact\&hide_border=true)
 
 ---
 
@@ -113,6 +113,6 @@ Aplicação de delivery desenvolvida como projeto de desenvolvimento mobile.
 
 Estou aberto a oportunidades e projetos relacionados a **Flutter, Dart e desenvolvimento mobile**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-portella-789891168/)
 
-📧 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com)
+📧 **E-mail:** [portellaaugusto1@gmail.com](mailto:portellaaugusto1@gmail.com)
