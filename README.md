@@ -1,22 +1,118 @@
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=augustoport)](https://github.com/augustoport/github-profile-trophy) -->
+# Olá, eu sou o Augusto Portella 👋
 
-[![augustoport's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoport)](https://github.com/augustoport/github-readme-stats)
+### Desenvolvedor Mobile | Flutter & Dart
 
-<!-- ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoport)](https://github.com/augustoport/github-readme-stats)-->
+Sou desenvolvedor mobile com foco em **Flutter e Dart**, atuando com a tecnologia desde **2021**.
 
-<!--
-**augustoport/augustoport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho experiência no desenvolvimento de aplicações mobile, desde construção de interfaces e gerenciamento de estado até integrações com APIs, Firebase e dispositivos externos.
 
-Here are some ideas to get you started:
+No ambiente profissional, também trabalhei com soluções envolvendo **RFID, NFC, leitura de códigos de barras e sistemas WMS**, participando do desenvolvimento e evolução de aplicações utilizadas em operações reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 👨‍💻 Sobre mim
 
--->
+* 📱 Desenvolvimento mobile com **Flutter & Dart**
+* 🧠 Gerenciamento de estado com **BLoC, Cubit, Provider e ChangeNotifier**
+* 🏗️ Interesse em **Clean Architecture e boas práticas de desenvolvimento**
+* 🔌 Integração com **APIs REST**
+* 🔥 Experiência com **Firebase**
+* 📡 Integrações com **RFID e NFC**
+* 📦 Experiência com **WMS (Warehouse Management System)**
+* 💾 Persistência e armazenamento local de dados
+* 🔎 Leitura de códigos de barras e QR Codes
+* 🌎 Inglês **Upper-Intermediate (B2)**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### Gerenciamento de Estado
+
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+### Backend e Serviços
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 📱 Experiência
+
+Ao longo da minha experiência profissional, trabalhei no desenvolvimento de aplicações mobile envolvendo:
+
+* Integração com leitores **RFID**
+* Comunicação e leitura via **NFC**
+* Sistemas de gerenciamento de armazéns (**WMS**)
+* Leitura de códigos de barras e QR Codes
+* Integração com APIs REST
+* Firebase
+* Armazenamento e funcionamento offline
+* Fluxos de autenticação
+* Integrações com hardware
+* Gerenciamento de estado com BLoC/Cubit e Provider
+
+---
+
+## 🚀 Projetos
+
+### 🎬 TMDB Flutter App
+
+Aplicação desenvolvida em Flutter utilizando a **API do TMDB** para consulta e descoberta de filmes e séries.
+
+**Principais pontos:**
+
+* Flutter & Dart
+* BLoC / Cubit
+* Integração com API REST
+* Informações sobre filmes e séries
+* Elenco e produção
+* Avaliações e sinopses
+* Arquitetura organizada e componentes reutilizáveis
+
+---
+
+### 🍔 Food Delivery App
+
+Aplicação de delivery desenvolvida como projeto de desenvolvimento mobile.
+
+**Principais pontos:**
+
+* Flutter & Dart
+* Construção de interfaces
+* Navegação e fluxos da aplicação
+* Componentes reutilizáveis
+* Gerenciamento de estado
+
+---
+
+## 📊 GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&hide_border=true)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## 📫 Contato
+
+Estou aberto a oportunidades e projetos relacionados a **Flutter, Dart e desenvolvimento mobile**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+
+📧 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com)
