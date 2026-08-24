@@ -43,13 +43,6 @@ No ambiente profissional, também trabalhei com soluções envolvendo **RFID, NF
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
 ---
 
 ## 📱 Experiência
@@ -98,14 +91,6 @@ Aplicação de delivery desenvolvida como projeto de desenvolvimento mobile.
 * Navegação e fluxos da aplicação
 * Componentes reutilizáveis
 * Gerenciamento de estado
-
----
-
-## 📊 GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augustoport\&show_icons=true\&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoport\&layout=compact\&hide_border=true)
 
 ---
 
