@@ -1,4 +1,4 @@
-# Olá, eu sou o Augusto Portella 👋
+# Olá, eu sou o Augusto Portella
 
 ### Desenvolvedor Mobile | Flutter & Dart
 
