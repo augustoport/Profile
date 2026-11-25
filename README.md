@@ -1,103 +1,36 @@
-# Olá, eu sou o Augusto Portella
+# Augusto Portella
 
-### Desenvolvedor Mobile | Flutter & Dart
+Desenvolvedor mobile com mais de 4 anos de experiência em Flutter e Dart. Trabalho principalmente com apps corporativos para operações de campo e logística: gestão de armazém, inventário de ativos e manutenção industrial.
 
-Sou desenvolvedor mobile com foco em **Flutter e Dart**, atuando com a tecnologia desde **2021**.
+Nos últimos anos fui o único desenvolvedor mobile do 4LOG Operation, um app de WMS integrado a ERPs como Protheus e Sysemp. Fui responsável pela arquitetura, pelos módulos principais e pela publicação nas lojas. Boa parte do meu trabalho envolve cenários que fogem do app comum: operação sem internet, sincronização de dados e leitura de tags RFID/NFC em coletores industriais.
 
-Tenho experiência no desenvolvimento de aplicações mobile, desde construção de interfaces e gerenciamento de estado até integrações com APIs, Firebase e dispositivos externos.
+Atualmente curso MBA em Engenharia de Software na USP/ESALQ.
 
-No ambiente profissional, também trabalhei com soluções envolvendo **RFID, NFC, leitura de códigos de barras e sistemas WMS**, participando do desenvolvimento e evolução de aplicações utilizadas em operações reais.
+## O que eu faço
 
----
+- Apps Flutter para Android e iOS, do levantamento de requisitos à publicação na Google Play e na App Store
+- Arquitetura com Clean Architecture e gerenciamento de estado com BLoC/Cubit
+- Modo offline com persistência local e fila de sincronização
+- Integração com hardware: RFID, NFC e coletores de dados
+- Integração com APIs REST e GraphQL
+- Testes unitários e de widget, e pipelines de CI/CD com GitHub Actions
+- Desenvolvimento assistido por IA com Claude Code, usando Spec-Driven Development (GitHub Spec Kit)
 
-## 👨‍💻 Sobre mim
+## Tecnologias
 
-* 📱 Desenvolvimento mobile com **Flutter & Dart**
-* 🧠 Gerenciamento de estado com **BLoC, Cubit, Provider e ChangeNotifier**
-* 🏗️ Interesse em **Clean Architecture e boas práticas de desenvolvimento**
-* 🔌 Integração com **APIs REST**
-* 🔥 Experiência com **Firebase**
-* 📡 Integrações com **RFID e NFC**
-* 📦 Experiência com **WMS (Warehouse Management System)**
-* 💾 Persistência e armazenamento local de dados
-* 🔎 Leitura de códigos de barras e QR Codes
-* 🌎 Inglês **Upper-Intermediate (B2)**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,angular,ts,git,github,githubactions&theme=dark" alt="Flutter, Dart, Android Studio, Firebase, Angular, TypeScript, Git, GitHub, GitHub Actions" />
+</p>
 
----
+## Projetos em destaque
 
-## 🛠️ Tecnologias e Ferramentas
+**[WikiCine](https://github.com/augustoport)**
+App de descoberta de filmes e séries usando a API do TMDB. Construído com Clean Architecture e BLoC/Cubit, com testes unitários e de widget. A funcionalidade de favoritos foi desenvolvida com Spec-Driven Development: especificação, plano técnico e tarefas definidos antes da implementação. O pipeline no GitHub Actions roda formatação, análise estática e testes a cada pull request, e gera o build assinado a cada tag de versão.
 
-### Mobile
+**4LOG Operation** (projeto corporativo, código privado)
+App de gestão e operação de armazém cobrindo recebimento, conferência, armazenagem, separação, expedição e inventário com RFID. Inclui um módulo de reparo de maquinário pesado que funciona offline.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+## Contato
 
-### Gerenciamento de Estado
-
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### Backend e Serviços
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-## 📱 Experiência
-
-Ao longo da minha experiência profissional, trabalhei no desenvolvimento de aplicações mobile envolvendo:
-
-* Integração com leitores **RFID**
-* Comunicação e leitura via **NFC**
-* Sistemas de gerenciamento de armazéns (**WMS**)
-* Leitura de códigos de barras e QR Codes
-* Integração com APIs REST
-* Firebase
-* Armazenamento e funcionamento offline
-* Fluxos de autenticação
-* Integrações com hardware
-* Gerenciamento de estado com BLoC/Cubit e Provider
-
----
-
-## 🚀 Projetos
-
-### 🎬 TMDB Flutter App
-
-Aplicação desenvolvida em Flutter utilizando a **API do TMDB** para consulta e descoberta de filmes e séries.
-
-**Principais pontos:**
-
-* Flutter & Dart
-* BLoC / Cubit
-* Integração com API REST
-* Informações sobre filmes e séries
-* Elenco e produção
-* Avaliações e sinopses
-* Arquitetura organizada e componentes reutilizáveis
-
----
-
-### 🍔 Food Delivery App
-
-Aplicação de delivery desenvolvida como projeto de desenvolvimento mobile.
-
-**Principais pontos:**
-
-* Flutter & Dart
-* Construção de interfaces
-* Navegação e fluxos da aplicação
-* Componentes reutilizáveis
-* Gerenciamento de estado
-
----
-
-## 📫 Contato
-
-Estou aberto a oportunidades e projetos relacionados a **Flutter, Dart e desenvolvimento mobile**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-portella-789891168/)
-
-📧 **E-mail:** [portellaaugusto1@gmail.com](mailto:portellaaugusto1@gmail.com)
+- LinkedIn: [linkedin.com/in/augusto-portella-789891168](https://linkedin.com/in/augusto-portella-789891168)
+- E-mail: portellaaugusto1@gmail.com
